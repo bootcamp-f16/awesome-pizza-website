@@ -6,3 +6,7 @@ body {
     margin-top: -20px;
     text-align: center;
 }
+
+.pizza-image {
+    margin: 0 auto;
+}
