@@ -10,3 +10,7 @@ body {
 .pizza-image {
     margin: 0 auto;
 }
+
+.social-list li {
+    margin: 20px 0;
+}
