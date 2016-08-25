@@ -1,0 +1,7 @@
+title: Awesome Pizza
+gems:
+  - jekyll-redirect-from
+  - jekyll-sitemap
+baseurl: /awesome-pizza-website
+permalink: pretty
+twitter_user: awesome_inc
