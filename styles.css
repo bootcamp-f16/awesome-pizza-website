@@ -32,3 +32,8 @@ body {
 
 #home-carousel {
 }
+
+.social-links i{
+    font-size: 40px;
+    vertical-align: middle;
+}
